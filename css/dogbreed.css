@@ -1,0 +1,11 @@
+body{
+background-image: url("dogbg1.jpg");
+background-position:center;
+
+background-repeat: no-repeat;
+background-size:cover;
+font-family: lato;
+}
+.img-thumbnail{
+  height: 500 px !important;
+}
